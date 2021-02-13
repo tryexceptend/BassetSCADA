@@ -1,0 +1,12 @@
+{
+    "_COMMENT01" : "Основной файл конфигурации для текущей ноды",
+    "nodeLogging": {
+        "hosting":{
+            "httpPort" : 27001
+        },
+        "general":{
+            "dataPath":"/home/son/prj/NodeLogging/"
+        }
+    }
+
+}
